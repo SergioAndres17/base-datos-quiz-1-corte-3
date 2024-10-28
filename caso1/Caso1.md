@@ -27,7 +27,7 @@ FROM
     view v ON mv.view_id = v.id
 
 #Resultado
-caso1/imagenes/image-2.png
+![caso1-todo](image-2.png)
 
 # Caso 1 Filtro
 ´´´
