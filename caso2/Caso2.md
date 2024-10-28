@@ -6,4 +6,4 @@
 [view] vista[name]
 
 #Resultado
-![alt text](image-1.png)
+![alt text](imagenes/image-1.png)
