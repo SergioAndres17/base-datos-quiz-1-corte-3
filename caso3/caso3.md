@@ -7,4 +7,4 @@ Caso 3
 [view] vista[name]
 
 #Resultado
-![alt text](image-4.png)
+![alt text](imagenes/image-4.png)
