@@ -27,7 +27,7 @@ FROM
     view v ON mv.view_id = v.id
 
 #Resultado
-![caso1-todo](image-2.png)
+![caso1-todo](imagenes/image-2.png)
 
 # Caso 1 Filtro
 ´´´
@@ -48,5 +48,5 @@ FROM
     INNER JOIN view v ON mv.view_id = v.id
 
 #Resultado
-![caso1-filtro](image-3.png)
+![caso1-filtro](imagenes/image-3.png)
 ---
